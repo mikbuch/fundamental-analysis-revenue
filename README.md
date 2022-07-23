@@ -6,6 +6,8 @@ Fundamental analysis basics -- plotting a "revenue" indicator with Python.
 
 There are two main types of stock market analysis: technical analysis, and fundamental analysis. The former is what you may be more familiar with: the task of the technical analysis is to predict the future prices of a stock given its historical values and volume. On the other hand, the aim of the fundamental analysis is to determine "real" or "fair market" value of the stock, given company's financial condition, it's assets, market potential, etc.
 
+![AAPL revenue graph](https://raw.githubusercontent.com/mikbuch/fundamental-analysis-revenue/main/images/aapl.png?token=GHSAT0AAAAAABU6Q5VDXP3XIHSH5Y2SJNQUYW4BTHQ)
+
 For the more detailed definitions, see the excerpt from the [Investopedia article](https://www.investopedia.com/terms/f/fundamentalanalysis.asp) below:
 
 > Fundamental analysis (FA) is a method of measuring a security's intrinsic value by examining related economic and financial factors. Fundamental analysts study anything that can affect the security's value, from macroeconomic factors such as the state of the economy and industry conditions to microeconomic factors like the effectiveness of the company's management.
