@@ -2,6 +2,8 @@
 
 Fundamental analysis basics -- plotting a "revenue" indicator with Python.
 
+This repository contains materials for [my article at Medium](https://medium.com/@mikolaj.buchwald/visualizing-fundamental-analysis-indicators-for-nasdaq-companies-in-python-cfebf8ad6191). Please, refer to [the article](https://medium.com/@mikolaj.buchwald/visualizing-fundamental-analysis-indicators-for-nasdaq-companies-in-python-cfebf8ad6191) for more information about the contants of the Jupyter Notebook available in this repository.
+
 ---
 
 There are two main types of stock market analysis: technical analysis, and fundamental analysis. The former is what you may be more familiar with: the task of the technical analysis is to predict the future prices of a stock given its historical values and volume. On the other hand, the aim of the fundamental analysis is to determine "real" or "fair market" value of the stock, given company's financial condition, it's assets, market potential, etc.
